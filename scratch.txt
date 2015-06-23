@@ -1,0 +1,8 @@
+https://s3.amazonaws.com/agawebassets/images/action-report/congress_icon.png
+https://s3.amazonaws.com/agawebassets/images/action-report/mechancal_icon.png
+https://s3.amazonaws.com/agawebassets/images/action-report/money_talk_icon.png
+https://s3.amazonaws.com/agawebassets/images/action-report/networking_icon.png
+https://s3.amazonaws.com/agawebassets/images/action-report/report_icon.png
+https://s3.amazonaws.com/agawebassets/images/action-report/rubber_stamp_icon.png
+https://s3.amazonaws.com/agawebassets/images/action-report/writing_icon.png
+
