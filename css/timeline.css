@@ -241,6 +241,34 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @media (max-width: 767px) {
+    p {
+        font-size: 16px;
+    }
+    .timeline-header {
+        text-transform: uppercase;
+        font-family: Cambria, 'Merriweather', serif;
+        font-weight: 900;
+        font-size: 30px;
+    }
+
+    .timeline-subheader {
+        color: #00588A;
+        text-transform: uppercase;
+        font-weight: 900;
+        font-size: 24px;
+        letter-spacing: 0.5em;
+    }
+
+    .timeline-title {
+        font-size: 26px;
+
+    }
+
+    .icon {
+        max-height: 50px;
+    }
+
+
     ul.timeline:before {
         left: 40px;
     }
